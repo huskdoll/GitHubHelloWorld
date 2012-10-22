@@ -4,7 +4,6 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		HelloWorld hw = new HelloWorld();
 		hw.ppp("HelloWorld");
-		hw.ppp("HelloWorld_master_modify");
 	}
 
 	public void ppp(Object o){
