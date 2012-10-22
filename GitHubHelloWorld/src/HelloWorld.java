@@ -8,6 +8,7 @@ public class HelloWorld {
 
 	public void ppp(Object o){
 		System.out.println(o.toString());
+		System.out.println(o.toString());
 	}
 	
 
